@@ -1,0 +1,26 @@
+body{
+	
+ font-family: "Times New Roman", Times, serif;
+	
+color: #FFFFFF;
+	background-color: #CC0033
+;
+	
+text-shadow: 1px 1px #ff0000;
+	text-align: center;
+}
+h1 {
+	font-size: 1.3em;
+	text-align: center;
+	text-shadow: 1px 1px #3399FF;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #CC0033
+;
+
+}
